@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Control de Gastos</string>
+    <string name="numero_dia">Número día</string>
+    <string name="valor_gasto">Valor gasto</string>
+    <string name="agregar">Agregar</string>
+    <string name="campos_obligatorios">Debe llenar los campos</string>
+    <string name="restriccion_numero_dia">Número de días válidos 1 a 6</string>
+    <string name="anuncio">Anuncio</string>
+    <string name="id_publicidad">ca-app-pub-4302504334301946/3447153912</string>
+    <string name="publicidad_cargando">El anuncio se está cargando...</string>
+</resources>
